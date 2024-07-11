@@ -17,3 +17,4 @@ webbrowser
 smtplib
 speech_recognition
 openai
+django>=4.2.14 # not directly required, pinned by Snyk to avoid a vulnerability
